@@ -277,4 +277,4 @@ MIT License. See `LICENSE` for details.
 
 ## Author
 
-Arya -- financial data engineering and analytical dashboard development.
+Arya Devkota -- https://www.linkedin.com/in/arya-devkota/
