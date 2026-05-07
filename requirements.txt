@@ -1,0 +1,19 @@
+# Core dashboard
+streamlit>=1.35.0
+pandas>=2.2.0
+plotly>=5.22.0
+
+# Data pipeline
+numpy>=1.26.0
+pyarrow>=16.0.0
+pydantic>=2.7.0
+requests>=2.31.0
+
+# AI / LLM
+langchain>=0.2.0
+langchain-openai>=0.1.0
+
+# Utilities
+python-dotenv>=1.0.0
+scikit-learn>=1.4.0
+watchdog>=4.0.0
